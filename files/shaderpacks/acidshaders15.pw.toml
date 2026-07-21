@@ -1,0 +1,37 @@
+filename = 'Acid Shaders.zip'
+name = 'Acid Shaders 1.5'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5'
+
+[download]
+hash = '3e90019b856fc06c6174cd39f6ecf9ce1a02708953605dab2cee2a3342facc9747e6df1d85d3ae2d6d6f7b108d3fda5099c625ab457c8b5cfb0d4d006666adad'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z8vHOw6N/versions/kaqB0sa5/Acid Shaders.zip'
+
+[update.modrinth]
+mod-id = 'Z8vHOw6N'
+version = 'kaqB0sa5'

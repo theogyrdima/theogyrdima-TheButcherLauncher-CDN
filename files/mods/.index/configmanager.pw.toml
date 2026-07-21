@@ -1,0 +1,18 @@
+filename = 'ConfigManager-neoforge-1.21.x-1.0.1.jar'
+name = 'Config Manager'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Config Manager 1.0.1 NeoForge'
+
+[download]
+hash = '4d9071cbb997b28c81215e16cf70eb430276f5d3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7009857
+project-id = 1340480

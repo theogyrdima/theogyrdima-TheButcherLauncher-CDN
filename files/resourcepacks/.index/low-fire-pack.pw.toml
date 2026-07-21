@@ -1,0 +1,42 @@
+filename = 'Low Fire.zip'
+name = 'Low Fire'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.0'
+
+[download]
+hash = 'acd2d2123023178340fcf97f3f2621570207da178ddf21f54a3be89e97c365941bdacbc8af8d95a6df730c4c0b8f51cc5bd752aeffe8dd4e56d49b436e22b4b7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1jZGHJ05/versions/RP4ozzMC/Low Fire.zip'
+
+[update.modrinth]
+mod-id = '1jZGHJ05'
+version = 'RP4ozzMC'

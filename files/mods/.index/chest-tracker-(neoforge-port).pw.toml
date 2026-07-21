@@ -1,0 +1,21 @@
+filename = 'chesttracker-2.6.7+1.21.1-neoforge.jar'
+name = 'Chest Tracker (NeoForge port)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.6.7+1.21.1-neoforge'
+
+[download]
+hash = 'b72a35b699fb7badf5823db01428cf19b2bf1e7bffcb49e259a9cc68a9303b291b37a911d21af0afa9c468be43d538ba2c8dc996f1bd2bf92bc3dadaa15bdd3e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tKgBLOU4/versions/r6DLcMRA/chesttracker-2.6.7%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'tKgBLOU4'
+version = 'r6DLcMRA'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'REQUIRED'

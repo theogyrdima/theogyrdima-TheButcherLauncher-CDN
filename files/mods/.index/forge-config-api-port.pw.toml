@@ -1,0 +1,21 @@
+filename = 'ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar'
+name = 'Forge Config API Port'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] ForgeConfigAPIPort-v21.1.6'
+
+[download]
+hash = '14f2dd9f43254b8c06af04b6f0c8ae5192f658b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7213611
+project-id = 547434
+
+[[x-prismlauncher-dependencies]]
+addonId = '544048'
+type = 'OPTIONAL'

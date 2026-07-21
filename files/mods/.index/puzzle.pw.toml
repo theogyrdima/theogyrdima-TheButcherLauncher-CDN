@@ -1,0 +1,21 @@
+filename = 'puzzle-neoforge-2.3.0+1.21.1.jar'
+name = 'Puzzle'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Puzzle 2.3.0 - Neoforge 1.21.1'
+
+[download]
+hash = '2f34e967a990cdefcdf704b69de2c46942349546'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7394090
+project-id = 563977
+
+[[x-prismlauncher-dependencies]]
+addonId = '488090'
+type = 'REQUIRED'

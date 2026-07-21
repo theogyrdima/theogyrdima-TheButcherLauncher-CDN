@@ -1,0 +1,25 @@
+filename = 'paginatedadvancements-2.5.1.jar'
+name = 'Paginated Advancements'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1-Snapshot', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.5.1-1.21'
+
+[download]
+hash = '23a4570fb52d62135d705156079e52ddfe980b94'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5679657
+project-id = 618770
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'

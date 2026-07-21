@@ -1,0 +1,21 @@
+filename = 'sodium-shadowy-path-blocks-neoforge-4.1.0.jar'
+name = 'Sodium Shadowy Path Blocks'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SSPB 4.1.0 for Sodium 0.6.0 to 0.8.12 / MC 1.21 to 1.21.4 / NeoForge'
+
+[download]
+hash = '315891dcf8459a53fe263d985073bef619c360d0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8146231
+project-id = 556408
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'REQUIRED'

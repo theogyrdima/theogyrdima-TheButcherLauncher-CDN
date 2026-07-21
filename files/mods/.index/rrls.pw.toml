@@ -1,0 +1,18 @@
+filename = 'rrls-5.0.11+mc1.21.1-forge.jar'
+name = 'Remove Reloading Screen'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[NeoForge 1.21.1] v5.0.11'
+
+[download]
+hash = 'acc4b6deca5c9cc87c33f114daf5d8f75081ed85'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8271600
+project-id = 833233
